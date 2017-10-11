@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "name": "jackson-cordova-custom-exitapp",
+    "cordova_name": "ExitApp",
+    "description": "Implements navigator.app.exitApp on iOS ",
+    "license": "Apache 2.0",
+    "keywords": [
+        "exitApp"
+    ],
+    "id": "jackson-cordova-custom-exitapp",
+    "platforms": [
+        "ios",
+        "android"        
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JacksonWolff/jackson-cordova-custom-exitapp.git"
+      },
+    "engines": []
+}

@@ -1,4 +1,4 @@
-# iOS-ExitApp
+# iOS & Android ExitApp
 This plugin implements navigator.app.exitApp() on iOS to close your application programmatically. Please be aware that your application may be rejected by Apple when using this plugin.
 
 # Installation
